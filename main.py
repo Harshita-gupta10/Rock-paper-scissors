@@ -1,6 +1,6 @@
 import random
 
-options = ("rock", "paper", "scissor")
+options = ("rock", "paper", "scissors")
 
 # to make the game run again
 running = True
